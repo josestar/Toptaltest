@@ -25,7 +25,7 @@ Make sure you have installed all of the following prerequisites on your developm
 * Bower - You're going to use the [Bower Package Manager](http://bower.io/) to manage your front-end packages. Make sure you've installed Node.js and npm first, then install bower globally using npm:
 
 ```bash
-$ git clone https://github.com/douglas822/react-CRUD.git react-CRUD
+$ git clone https://github.com/josestar/Toptaltest.git
 ```
 ```bash
 $ npm install
